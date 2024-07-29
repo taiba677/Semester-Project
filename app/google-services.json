@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "310518670957",
+    "firebase_url": "https://medicineremainder-8f85b-default-rtdb.firebaseio.com",
+    "project_id": "medicineremainder-8f85b",
+    "storage_bucket": "medicineremainder-8f85b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310518670957:android:ac0875ad9109b3b3b6c164",
+        "android_client_info": {
+          "package_name": "com.example.semproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCwjsM4AKsWVaBKCy938kJDmYOlqOdp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
